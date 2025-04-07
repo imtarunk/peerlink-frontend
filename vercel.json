@@ -1,7 +1,4 @@
 {
-  "build": {
-    "commands": {
-      "build": "npm run build"
-    }
-  }
+  "buildCommand": "npm run build",
+  "outputDirectory": "build"
 }
